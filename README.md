@@ -55,5 +55,5 @@ n ン
 长音，そう/そ——（shift+"——"）
 
 
-alt  + caps lock是平假名输入
-ctrl + caps lock是片假名输入
+Alt  + CapsLock是平假名输入
+Ctrl + CapsLock是片假名输入
